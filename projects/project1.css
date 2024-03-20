@@ -1,0 +1,24 @@
+.button{
+    width: 120px;
+    height: 120px;
+    border: none;
+    margin-left: 10px;
+}
+#green{
+    background-color: green;
+}
+#red{
+    background-color:red;
+}
+#blue{
+    background-color: rgb(75, 75, 255);
+}
+#black{
+    background-color:black;
+}
+#gold{
+    background-color:rgb(255, 227, 68);
+}
+.first{
+    height: 100vh;
+}
