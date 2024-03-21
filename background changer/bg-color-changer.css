@@ -1,0 +1,25 @@
+button{
+    border: none;
+    height: 120px;
+    width: 120px;
+    margin: 40px;
+}
+.main-div{
+    height: 100vh;
+    text-align: center;
+}
+#green{
+    background-color: green;
+}
+#red{
+    background-color: rgb(251, 0, 0);
+}
+#blue{
+    background-color: rgb(34, 34, 230);
+}
+#black{
+    background-color: black;
+}
+#gold{
+    background-color: rgb(255, 224, 46);
+}
